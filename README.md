@@ -4,26 +4,16 @@
 
 # Backend Development Skills:
 
-- Kotlin (Main)
+- Java (Main)
 - Java
 - Spring Boot
 - PostgreSQL
-- Postgis
 - SQL
-- Unit Testing
 - Hibernate
 - Object-Oriented Programming
 - Development of Restful APIs
 - Microservices
 
-# Android Development Skills:
-
-- Kotlin
-- Java
-- MVVM architecture
-- Koin for dependency injection
-- Firebase
-- XML responsiveness
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
