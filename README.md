@@ -5,7 +5,7 @@
 # Backend Development Skills:
 
 - Java (Main)
-- Java
+- Kotlin
 - Spring Boot
 - PostgreSQL
 - SQL
