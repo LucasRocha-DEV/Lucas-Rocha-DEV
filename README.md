@@ -30,11 +30,10 @@ React Native |  React | Nodejs | Javascript | Typescript | Nestjs | java(basic)
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Linguagens!
-<code><img width="40px" src="816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "KOTLIN"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" title = "SPRING"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/nodejs-original.svg" title = "PYTHON"/></code>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,reactjs,reactnative)](https://skillicons.dev)
+<code><img width="40px" 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TypeScript"/></code>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,reactnative,java)](https://skillicons.dev)
 
 ### 🎨 &nbsp;Mobile
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
