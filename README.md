@@ -2,14 +2,17 @@
 
 ### About Me
 
-# Backend Development Skills:
-
-- Java (Main)
-- Kotlin
-- Spring Boot
+# Full Stack Developer Skills:
+React Native |  React | Nodejs | Javascript | Typescript | Nestjs | java(basic)
+- React Native (Main)
+- React
+- Nodejs
+- Typescript
+- Nestjs
+- Javascript
 - PostgreSQL
 - SQL
-- Hibernate
+- java(basic)
 - Object-Oriented Programming
 - Development of Restful APIs
 - Microservices
@@ -27,10 +30,10 @@
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "KOTLIN"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" title = "SPRING"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/nodejs-original.svg" title = "PYTHON"/></code>
 
 
 ### 🎨 &nbsp;Mobile
